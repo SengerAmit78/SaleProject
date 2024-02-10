@@ -9,6 +9,7 @@ public class salesprojectApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(salesprojectApplication.class, args);
 		System.out.println("Working");
+		//for jenkin test
 	}
 
 }
